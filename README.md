@@ -1,0 +1,1 @@
+# Azure-Resource-Manager-Templates-Create-Storage-Account-and-Virtual-Machine
