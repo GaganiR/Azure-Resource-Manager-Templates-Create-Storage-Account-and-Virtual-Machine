@@ -39,13 +39,21 @@ Check whether SA is created inside the above RG.
 * Created a new file as create-vm.json
 * In the file type arm and select the template.
 * The following lines will be filled in.
+* 
 <img width="626" height="337" alt="image" src="https://github.com/user-attachments/assets/d2fb0ad3-e1f0-4496-afaf-9b68826932a2" />
+
 In the "resourses" section, type arm-vm and select the ubuntu option.
+
 <img width="513" height="258" alt="image" src="https://github.com/user-attachments/assets/b013cfd3-2c00-4414-8fc2-0a7bde0df189" />
+
 The full template will be filled with sections for NSG, public IPAddress, virtual Network like so:
+
 <img width="602" height="797" alt="image" src="https://github.com/user-attachments/assets/a025f7c4-5414-4048-9aa2-53e01683128b" />
+
 Changed the name of the vm as arm-vm:
+
 <img width="458" height="83" alt="image" src="https://github.com/user-attachments/assets/f497ec75-5485-4149-8c8a-cb445dc1cf40" />
 
 Change the admin username and password like:
+
 <img width="493" height="102" alt="image" src="https://github.com/user-attachments/assets/46fe635a-57b6-4385-8bce-2b29a954052b" />
