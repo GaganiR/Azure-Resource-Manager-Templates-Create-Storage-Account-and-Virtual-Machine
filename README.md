@@ -34,8 +34,11 @@ Check whether SA is created inside the above RG.
  az resource list --resource-group vscode --output table
 ```
 <img width="807" height="122" alt="image" src="https://github.com/user-attachments/assets/b2cb15bf-b676-4003-9ff1-4c8b257bb3a6" />
+
 # Deploying a VM through ARM
+
 ## Create new JSON file
+
 * Created a new file as create-vm.json
 * In the file type arm and select the template.
 * The following lines will be filled in.
@@ -236,6 +239,7 @@ Change the admin username and password like:
 ```
 
 Deploy the vm
+
 <img width="792" height="83" alt="image" src="https://github.com/user-attachments/assets/e6fa7380-bfee-42da-8302-007b251cc428" />
 
 ## Post-Deployment Verification
